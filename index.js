@@ -4,8 +4,8 @@ const path = require('path');
 module.exports = plugin;
 
 function plugin(file, options) {
-    const bundler = new Parcel(path.join(__dirname, file), options)
     return function(files, metalsmith, done) {
+        const bundler = new Parcel(path.join(metalsmith.directory(), file), options)
         bundler.bundle();
         return done();
     };
