@@ -1,0 +1,27 @@
+{
+  "name": "metalsmith-parcel",
+  "version": "1.0.0",
+  "description": "A parcel plugin for Metalsmith",
+  "main": "./lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dahnielson/metalsmith-parcel"
+  },
+  "keywords": [
+    "metalsmith",
+    "javascript",
+    "parcel"
+  ],
+  "author": "Anders Dahnielson <anders@dahnielson.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dahnielson/metalsmith-parcel/issues"
+  },
+  "homepage": "https://github.com/dahnielson/metalsmith-parcel#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.8.1"
+  }
+}
