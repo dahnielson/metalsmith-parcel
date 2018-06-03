@@ -3,7 +3,7 @@ const path = require('path')
 
 module.exports = plugin
 
-function plugin (file, options) {
+function plugin (file, options = {watch: false}) {
   return function (files, metalsmith, done) {
     const bundler = new Parcel(path.join(metalsmith.directory(), file), options)
     bundler.bundle()
