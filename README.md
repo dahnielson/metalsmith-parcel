@@ -1,11 +1,11 @@
 # metalsmith-parcel
 
-A [parcel][parcel] plugin for [Metalsmith][metalsmith].
+[Parcel][parcel] plugin for [Metalsmith][metalsmith].
 
 ## Installation
 
-```
-npm install metalsmith-parcel
+```bash
+yarn add metalsmith-parcel
 ```
 
 ## Usage
