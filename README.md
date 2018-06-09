@@ -1,5 +1,6 @@
 # metalsmith-parcel
 
+![Travic CI badge][travis badge]
 [![Greenkeeper badge][greenkeeper badge]][greenkeeper]
 [![Standard JS badge][standard badge]][standard]
 
@@ -51,6 +52,7 @@ We use [SemVer][semver] for versioning. For the versions available, see the [tag
 
 MIT License, see [LICENSE][license] for details.
 
+[travis badge]: https://travis-ci.com/dahnielson/metalsmith-parcel.svg?branch=master
 [greenkeeper badge]: https://badges.greenkeeper.io/dahnielson/metalsmith-parcel.svg
 [greenkeeper]: https://greenkeeper.io
 [standard badge]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
