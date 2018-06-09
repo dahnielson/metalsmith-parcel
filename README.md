@@ -1,5 +1,7 @@
 # metalsmith-parcel
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dahnielson/metalsmith-parcel.svg)](https://greenkeeper.io/)
+
 [![js-standard-style][standard-image]][standard-url]
 
 A plugin for [Metalsmith][metalsmith] to use [Parcel][parcel] for bundling of assets.
