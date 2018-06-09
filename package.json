@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-parcel",
   "version": "1.1.0",
-  "description": "A parcel plugin for Metalsmith",
+  "description": "A plugin for Metalsmith to use Parcel for bundling of assets",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
