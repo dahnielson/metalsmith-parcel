@@ -1,8 +1,7 @@
 # metalsmith-parcel
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/dahnielson/metalsmith-parcel.svg)](https://greenkeeper.io/)
-
-[![js-standard-style][standard-image]][standard-url]
+[![Greenkeeper badge][greenkeeper badge]][greenkeeper]
+[![Standard JS badge][standard badge]][standard]
 
 A plugin for [Metalsmith][metalsmith] to use [Parcel][parcel] for bundling of assets.
 
@@ -52,11 +51,14 @@ We use [SemVer][semver] for versioning. For the versions available, see the [tag
 
 MIT License, see [LICENSE][license] for details.
 
+[greenkeeper badge]: https://badges.greenkeeper.io/dahnielson/metalsmith-parcel.svg
+[greenkeeper]: https://greenkeeper.io
+[standard badge]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
+[standard]: https://github.com/standard/standard
+
 [metalsmith]: http://www.metalsmith.io/
 [parcel]: https://parceljs.org/
 [parcel api]: https://parceljs.org/api.html
-[standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
-[standard-url]: https://github.com/standard/standard
 [semver]: http://semver.org/
 [tags]: https://github.com/dahnielson/parcel-plugin-workbox/tags
 [license]: https://github.com/dahnielson/metalsmith-parcel/blob/master/LICENSE.md
