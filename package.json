@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-parcel",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A plugin for Metalsmith to use Parcel for bundling of assets",
   "main": "index.js",
   "scripts": {
