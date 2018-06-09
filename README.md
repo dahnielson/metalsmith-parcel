@@ -11,13 +11,13 @@ A plugin for [Metalsmith][metalsmith] to use [Parcel][parcel] for bundling of as
 You can either install by running yarn (recommended)
 
 ```bash
-yarn add metalsmith-parcel
+yarn add metalsmith-parcel parcel-bundler
 ```
 
 or use npm
 
 ```bash
-npm install metalsmith-parcel --save
+npm install metalsmith-parcel parcel-bundler --save
 ```
 
 ## Usage
