@@ -4,7 +4,7 @@
   "description": "A plugin for Metalsmith to use Parcel for bundling of assets",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint ."
   },
   "repository": {
     "type": "git",
