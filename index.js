@@ -1,11 +1,10 @@
 const Parcel = require('parcel-bundler')
-const path = require('path')
 
 module.exports = plugin
 
 function plugin (file, options = {watch: false}) {
   return function (files, metalsmith, done) {
-    const bundler = new Parcel(path.join(metalsmith.directory(), file), options)
+    const bundler = new Parcel(file), options)
     bundler.bundle()
     return done()
   }
